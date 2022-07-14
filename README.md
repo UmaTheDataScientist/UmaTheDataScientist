@@ -6,7 +6,7 @@
 ### <div align="center">I'm Uma, a data scientist 👨‍💻🚀</div>  
   
 
-- 🔭 I’m currently working on data science projects  
+- 🔭 I’m currently a student at San Francisco State University, California doing my Masters of Science in Business Analytics.
   
 
 - 🌱 I’m currently learning PostgreSQL  
