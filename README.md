@@ -15,32 +15,53 @@
 - ❓ Ask me about anything related to Python and data science projects  
   
 
-- ⚡ Fun fact: I use tabs over spaces and prefer mountains over beaches  
-  
+- ⚡ Fun fact: I use tabs over spaces and prefer mountains over beaches
+
+
+- 😀 Pronouns: she/her
+ 
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
+<table>
+  
+<tr>
+  
+  <td valign="top" width="25%">
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+</div>  
+
+</td>
+  
+  <td valign="top" width="25%">
+
+<div align="center">  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
+
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
+<div align="center">  
+  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 
+</div>
 
-</td></tr></table>  
+</td><td valign="top" width="25%">
+
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="50" />  
+
+</div>
+
+</td>
+  
+  
+  </tr></table>  
 
 <br/>  
 
