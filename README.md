@@ -1,1 +1,1 @@
-<img src="[https://github.com/umaraj033107/umaraj033107/blob/main/Minimal%20Online%20Business%20Facebook%20Cover%20Photo.png](https://github.com/umaraj033107/umaraj033107/blob/main/Minimal%20Online%20Business%20Facebook%20Cover%20Photo.png)" alt="banner that says Uma Rajagopalan's Portfolio>
+![Minimal Online Business Facebook Cover Photo](https://user-images.githubusercontent.com/105756607/179055797-b9cf8725-25e9-4e24-aa04-da86f3c05f27.png)
