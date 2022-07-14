@@ -1,6 +1,6 @@
-<div align="center">
-<img src="![Minimal Online Business Facebook Cover Photo](https://user-images.githubusercontent.com/105756607/179055797-b9cf8725-25e9-4e24-aa04-da86f3c05f27.png)" align="center" style="width: 100%" />
-</div>  
+
+![Minimal Online Business Facebook Cover Photo](https://user-images.githubusercontent.com/105756607/179055797-b9cf8725-25e9-4e24-aa04-da86f3c05f27.png)
+
   
 
 ### <div align="center">I'm Uma, a data scientist 👨‍💻🚀</div>  
