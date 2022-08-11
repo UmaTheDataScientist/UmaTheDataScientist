@@ -24,7 +24,7 @@
 <br/>  
 
 
-## My Skill Set  
+## 💪 My Skill Set  
 <table>
   
 <tr>
@@ -65,8 +65,10 @@
 
 <br/>  
 
+## ✍️ Blog and Writing
+Apart from coding, I also maintain a blog - you can find my articles on my website <a href = "https://www.umaraj.com/">umaraj.com</a> as well as on <a href="https://medium.com/@umaraj_datascientist" target="_blank">Medium</a>. 
 
-## Connect with me  
+## 🤝🏼 Connect with me  
 <div align="center">
 <a href="https://github.com/umaraj033107" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -89,7 +91,7 @@
 <br/>  
 
 
-## Github Stats  
+## 📈 Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=umaraj033107&show_icons=true&count_private=true&hide_border=true&theme=dracula&custom_title=Uma's Github Stats" align="center" /></div>  
 
 <br/>  
