@@ -92,7 +92,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## 📈 Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=umaraj033107&show_icons=true&count_private=true&hide_border=true&theme=dracula&custom_title=Uma's Github Stats" align="center" /></div>  
+![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaraj033107&show_icons=true&theme=dracula)
 
 <br/>  
 
