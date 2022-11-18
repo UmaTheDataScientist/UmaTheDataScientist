@@ -92,7 +92,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 ## 📈 Github Stats  
-![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=umaraj033107&show_icons=true&theme=dracula)
+![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaTheDataScientist&show_icons=true&theme=dracula)
 
 <br/>  
 
@@ -103,7 +103,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=umaraj033107&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=UmaTheDataScientist&&style=flat-square" align="center" />
 </div>  
   
 
