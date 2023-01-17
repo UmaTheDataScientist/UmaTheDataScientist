@@ -6,13 +6,16 @@
 ### <div align="center">I'm Uma, a data scientist 👨‍💻🚀</div>  
   
 
-- 🔭 I’m a student at San Francisco State University, California doing my Masters of Science in Business Analytics.
+- 🤓I'm a data enthusiast
+
+
+- 🔭 A recent graduate with Masters of Science in Business Analytics degree from San Francisco State University, California.
   
 
-- 🌱 I’m currently learning PostgreSQL  
+- 🌱 You will find Machine Learning, SQL, Python, Data Visualization projects in my profile.
   
 
-- ❓ Ask me about anything related to Python and data science projects  
+- ❓ Ask me about anything related to Python, SQL and data science projects  
   
 
 - ⚡ Fun fact: I use tabs over spaces and prefer mountains over beaches
