@@ -9,6 +9,9 @@
 - 🤓I'm a data enthusiast
 
 
+- 🧮 Check out my projects [here](https://umathedatascientist.github.io/Portfolio/)
+
+
 - 🔭 Masters of Science in Business Analytics graduate from San Francisco State University, California.
   
 
