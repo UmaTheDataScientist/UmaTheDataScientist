@@ -99,10 +99,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=UmaTheDataScientist&&style=flat-square" align="center" />
-</div>  
-  
+
 
 <br/>  
 
