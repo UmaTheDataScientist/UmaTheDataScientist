@@ -9,16 +9,16 @@
 - 🤓I'm a data enthusiast
 
 
-- 🔭 A recent graduate with Masters of Science in Business Analytics degree from San Francisco State University, California.
+- 🔭 Masters of Science in Business Analytics graduate from San Francisco State University, California.
   
 
 - 🌱 You will find Machine Learning, SQL, Python, Data Visualization projects in my profile.
   
 
-- ❓ Ask me about anything related to Python, SQL and data science projects  
+- ❓ Ask me about anything related to Python, SQL and data science projects.  
   
 
-- ⚡ Fun fact: I use tabs over spaces and prefer mountains over beaches
+- ⚡ Fun fact: I use tabs over spaces and prefer mountains over beaches.
 
 
 - 😀 Pronouns: she/her
@@ -73,7 +73,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 ## 🤝🏼 Connect with me  
 <div align="center">
-<a href="https://github.com/umaraj033107" target="_blank">
+<a href="[https://github.com/umaraj033107](https://github.com/umathedatascientist)" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/umasudh" target="_blank">
@@ -90,15 +90,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## 📈 Github Stats  
-![Uma's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmaTheDataScientist&show_icons=true&theme=dracula)
-
-<br/>  
-
 
 
   
