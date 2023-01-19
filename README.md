@@ -3,10 +3,10 @@
 
   
 
-### <div align="center">I'm Uma, a data scientist 👨‍💻🚀</div>  
+### <div align="center">Hi, I'm Uma, a data scientist 👨‍💻🚀</div>  
   
 
-- 🤓I'm a data enthusiast
+- 🤓Data enthusiast
 
 
 - 🧮 Check out my projects [here](https://umathedatascientist.github.io/Portfolio/)
