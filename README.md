@@ -6,9 +6,6 @@
 ### <div align="center">Hi, I'm Uma, a data scientist 👨‍💻🚀</div>  
   
 
-- 🤓Data enthusiast
-
-
 - 🧮 Check out my projects [here](https://umathedatascientist.github.io/Portfolio/)
 
 
